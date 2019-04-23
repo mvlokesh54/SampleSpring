@@ -74,8 +74,8 @@
   <plugins>
   <plugin>
 		<groupId>org.apache.tomcat.maven</groupId>
-		<artifactId>tomcat6-maven-plugin</artifactId>
-		<version>2.2</version>
+		<artifactId>apache-maven-3.0.3</artifactId>
+		<version>3.0.3</version>
 		<configuration>
 			<url>http://localhost:8686/manager</url>
 			<server>TomcatServer</server>
