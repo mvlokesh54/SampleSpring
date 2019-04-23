@@ -77,7 +77,7 @@
 		<artifactId>tomcat6-maven-plugin</artifactId>
 		<version>2.2</version>
 		<configuration>
-			<url>http://localhost:8080/manager</url>
+			<url>http://localhost:8686/manager</url>
 			<server>TomcatServer</server>
 			<path>/</path>
 		</configuration>
