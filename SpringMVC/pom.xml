@@ -88,6 +88,8 @@
 	</plugin>
   </plugins>
   
+  
+  </build>
   <distributionManagement>
     <repository>
         <uniqueVersion>false</uniqueVersion>
@@ -97,8 +99,5 @@
         <layout>default</layout>
     </repository>
 </distributionManagement>
-  
-  
-  </build>
   
 </project>
