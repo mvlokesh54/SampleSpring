@@ -4,7 +4,7 @@
 
 <%= java.util.Calendar.getInstance().getTime() %>
 
-<a href="hello">click here pulldata</a>
+<a href="hello">click here pull</a>
 
 </body>
 </html><br/>
